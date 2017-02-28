@@ -1,0 +1,9 @@
+body {color: black; background-color: rgba(0, 0, 0, 0); margin: 30px;}
+   h1{ color: #00BFFF; font-size:30px; front-family: 'Times New Roman';}
+   h2{ color: #00FFFF; font-size:20px; front-family: 'Times New Roman';}
+   b{ color: #58ACFA; font-size:16px; front-family: 'Times New Roman';}
+   
+   .mon-images{
+	height: 150px;
+    width : 150; 
+	float : right;}
